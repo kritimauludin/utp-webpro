@@ -16,7 +16,7 @@
                     <a class="nav-link link tebel-sedang" href="#umkm">UMKM &nbsp;&nbsp;</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link link tebel-sedang me-5" href="https://kritimauludin.github.io/" target="_blank">Blog &nbsp;&nbsp;</a>
+                    <a class="nav-link link tebel-sedang me-5" href="https://knowing.fun" target="_blank">Blog &nbsp;&nbsp;</a>
                 </li>
             </ul>
 
